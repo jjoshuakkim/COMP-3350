@@ -1,6 +1,6 @@
 ;----------------- Solution to Project 5 --------------------
-; Author: 
-; Last Modified Date: 
+; Author: Joshua Kim
+; Last Modified Date: 11/16/22
 ; Summary: This program decrypt and encrypt a message (input) with a key using Vigenere Cipher, the results will be stored in output.
 
 .386
